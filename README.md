@@ -1,2 +1,2 @@
 # AlgorithmsSpecializationStanford
-This is a repo for Stanford's Algorithms Specialization on Coursera
+This is a repo for the Stanford's Algorithms Specialization on Coursera
